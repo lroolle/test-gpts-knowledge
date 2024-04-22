@@ -1,0 +1,4 @@
+|_. ID|_. Name|_. Score|
+|1|Alice|85|
+|2|Bob|92|
+|3|Charlie|78|

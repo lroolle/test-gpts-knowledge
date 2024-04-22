@@ -1,0 +1,34 @@
+\startplacetable[location=none]
+\startxtable
+\startxtablehead[head]
+\startxrowgroup[lastrow]
+\startxrow
+\startxcell ID \stopxcell
+\startxcell Name \stopxcell
+\startxcell Score \stopxcell
+\stopxrow
+\stopxrowgroup
+\stopxtablehead
+\startxtablebody[body]
+\startxrow
+\startxcell 1 \stopxcell
+\startxcell Alice \stopxcell
+\startxcell 85 \stopxcell
+\stopxrow
+\startxrow
+\startxcell 2 \stopxcell
+\startxcell Bob \stopxcell
+\startxcell 92 \stopxcell
+\stopxrow
+\startxrowgroup[lastrow]
+\startxrow
+\startxcell 3 \stopxcell
+\startxcell Charlie \stopxcell
+\startxcell 78 \stopxcell
+\stopxrow
+\stopxrowgroup
+\stopxtablebody
+\startxtablefoot[foot]
+\stopxtablefoot
+\stopxtable
+\stopplacetable

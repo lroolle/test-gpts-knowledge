@@ -1,0 +1,22 @@
+<table>
+  <row role="label">
+    <cell><p>ID</p></cell>
+    <cell><p>Name</p></cell>
+    <cell><p>Score</p></cell>
+  </row>
+  <row>
+    <cell><p>1</p></cell>
+    <cell><p>Alice</p></cell>
+    <cell><p>85</p></cell>
+  </row>
+  <row>
+    <cell><p>2</p></cell>
+    <cell><p>Bob</p></cell>
+    <cell><p>92</p></cell>
+  </row>
+  <row>
+    <cell><p>3</p></cell>
+    <cell><p>Charlie</p></cell>
+    <cell><p>78</p></cell>
+  </row>
+</table>

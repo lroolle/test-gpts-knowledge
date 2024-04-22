@@ -1,0 +1,21 @@
+@node Top
+@top Top
+
+@multitable {ID} {Charlie} {Score} 
+@headitem 
+ID
+ @tab Name
+ @tab Score
+@item 
+1
+ @tab Alice
+ @tab 85
+@item 
+2
+ @tab Bob
+ @tab 92
+@item 
+3
+ @tab Charlie
+ @tab 78
+@end multitable

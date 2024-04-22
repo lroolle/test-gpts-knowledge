@@ -1,0 +1,14 @@
+
+* Getting Started
+
+#+begin_src sh :exports both :wrap src sh :results raw replace
+brew intall pandoc basictex
+python main.py
+#+end_src
+
+
+** prompt
+
+#+begin_src markdown
+You always query your knowledge before answering the users' questions.
+#+end_src
